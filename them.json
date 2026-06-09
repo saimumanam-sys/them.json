@@ -1,0 +1,31 @@
+{
+  "name": "Red Neon Anime AMOLED",
+  "description": "Red and Blue Neon Anime Theme",
+  "authors": [
+    {
+      "name": "You",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": "#FFFFFF",
+    "HEADER_SECONDARY": "#B5BAC1",
+    "TEXT_NORMAL": "#DBDEE1",
+    "TEXT_MUTED": "#949BA4",
+    "INTERACTIVE_NORMAL": "#B5BAC1",
+    "INTERACTIVE_HOVER": "#DBDEE1",
+    "INTERACTIVE_ACTIVE": "#FFFFFF",
+    "INTERACTIVE_MUTED": "#4E505B",
+    "BACKGROUND_PRIMARY": "#000000",
+    "BACKGROUND_SECONDARY": "#0a0a0a",
+    "BACKGROUND_SECONDARY_ALT": "#101010",
+    "BACKGROUND_TERTIARY": "#1a1a1a",
+    "BACKGROUND_ACCENT": "#FF0000",
+    "STATUS_DANGER": "#FF0000"
+  },
+  "rawColors": {
+    "PRIMARY_500": "#FF0000",
+    "BLUE_345": "#0066FF"
+  }
+}
