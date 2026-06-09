@@ -1,6 +1,6 @@
 {
   "name": "Red Neon Anime AMOLED",
-  "description": "Red and Blue Neon Anime Theme",
+  "description": "Red and Blue Neon Anime Theme for Discord",
   "authors": [
     {
       "name": "saimumanam-sys"
@@ -21,7 +21,8 @@
     "BACKGROUND_SECONDARY_ALT": "#101010",
     "BACKGROUND_TERTIARY": "#1a1a1a",
     "BACKGROUND_ACCENT": "#FF0000",
-    "STATUS_DANGER": "#FF0000"
+    "STATUS_DANGER": "#FF0000",
+    "FOCUS_PRIMARY": "#FF0000"
   },
   "rawColors": {
     "PRIMARY_500": "#FF0000",
